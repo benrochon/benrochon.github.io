@@ -33,3 +33,43 @@ body {
 .thedescription{
   font-size:1.2em;
 }
+
+
+#projects {
+  padding-top: 11em;
+    text-align: center;
+}
+
+.project-card {
+  padding-bottom: 1.5em;
+  display: block;
+
+}
+
+.project-card .name {
+    color: rgb(82, 83, 122);
+    display: block;
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+.project-card .desc {
+  color: rgb(82, 83, 122);
+  display: block;
+  font-size: 1.05em;
+  max-width: 55%;
+  margin: auto;
+  padding-top: 0.3em;
+}
+
+.project-card .links {
+  padding-top: 0.2em;
+  display: block;
+}
+.project-card .links a {
+  text-decoration: none;
+  color: #4a799c;
+  font-weight: 600;
+  font-size: 1em;
+  display: block;
+}
