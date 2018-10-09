@@ -34,9 +34,19 @@ body {
   font-size:1.2em;
 }
 
+#social {
+  text-align: center;
+  font-size: 1.3em;
+  opacity: .4;
+  padding-top: 5em;
+}
+#social a {
+  color:black;
+  text-decoration: none;
+}
 
 #projects {
-  padding-top: 11em;
+  padding-top: 3em;
     text-align: center;
 }
 
